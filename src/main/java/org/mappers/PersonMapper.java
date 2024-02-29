@@ -1,4 +1,4 @@
-package org.dbconfig;
+package org.mappers;
 
 import org.jdbi.v3.core.mapper.RowMapper;
 import org.jdbi.v3.core.statement.StatementContext;
